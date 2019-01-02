@@ -3,6 +3,7 @@
 
 字体推荐 [Hack]( https://github.com/source-foundry/Hack
 )，一款非常适合查看代码的字体
+
 <img src="https://github.com/source-foundry/Hack/raw/master/img/hack-specimen-3-crunch.png" width="60%" heigh="60%" />
 
 shell我这边使用的是[fish](https://fishshell.com/)，比较简单易用,[配置文件](https://github.com/mrbruce516/hyperbackup/tree/master/fish)路径：`~/Users/bruce/.config/fish/`
