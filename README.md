@@ -13,3 +13,5 @@ shell我这边使用的是[fish](https://fishshell.com/)，比较简单易用,[�
 
 在终端上编辑文件等我习惯使用Vim（拯救乌干达的儿童/滑稽），Vim的配置在用户体验上有着极为重要的影响，点击[这里](https://github.com/mrbruce516/hyperbackup/blob/master/vimrc)可以查看我的轻量级配置。  
 ![vim截图](https://github.com/mrbruce516/hyperbackup/blob/master/pic/screenshot_vim.png)
+
+现已使用 iterm2+zsh 具体看 https://github.com/mrbruce516/dotfile
